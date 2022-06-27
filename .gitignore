@@ -1,0 +1,6 @@
+# VS Code
+.vscode
+
+# ESPHome
+esphome/secrets.yaml
+esphome/.esphome
